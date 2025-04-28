@@ -74,4 +74,4 @@ docker-compose up --build
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with 🚀 by [AstroMVP](https://astromvp.com)
