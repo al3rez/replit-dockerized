@@ -1,0 +1,14 @@
+server:
+  name: app-server
+  type: cx22
+  image: ubuntu-22.04
+  location: nbg1  # Nuremberg datacenter
+
+docker:
+  username: your-docker-username
+  image_name: app
+
+domain: your-domain.com
+
+ssh:
+  key_name: your-local-ssh-key-name-here # ~/.ssh/<KEY>
